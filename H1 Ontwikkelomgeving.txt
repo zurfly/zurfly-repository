@@ -1,0 +1,40 @@
+void setup() {
+  size(500, 500);
+}
+
+void draw() {
+  circle(250, 250, 100);
+}
+
+
+
+
+H02.0 Console
+
+println("Dit is een tekst");
+
+println("Dit is een tekst.");
+print("Dit is een");
+print(" stukje tekst");
+println(" achter elkaar geplakt!");
+print("Met 2 enters.");
+
+H02.3 Size
+
+size(550, 400);
+
+
+H02.4 Tekst
+
+text(“Hier kan je tekst zetten”, 10, 10);
+
+H02.5 Kleur
+
+fill(100,15,200);
+
+fill(255,0,0);
+text(“Rood hier”, 10 , 10);
+fill(0,255,0);
+text(“Groen hier”, 10, 30);
+
+background(0, 0, 0); 
