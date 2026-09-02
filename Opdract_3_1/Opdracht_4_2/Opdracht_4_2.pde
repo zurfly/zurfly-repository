@@ -1,0 +1,21 @@
+int a = 15;
+int b = 2;
+int c = 31;
+int d = 3;
+int e = 10;
+int f = 5;
+int g = 38;
+int h = 4;
+int totaal = 0;
+int totaaal = 0;
+int totaaaal = 0;
+int totaaaaal = 0;
+
+totaal = a % b;
+println(totaal);
+totaaal = c % d;
+println(totaaal);
+totaaaal = e % f;
+println(totaaaal);
+totaaaaal = g % h ;
+println(totaaaaal);
