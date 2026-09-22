@@ -1,0 +1,5 @@
+//8.7
+
+for(int i = 20; i >= 10; i--){
+  println("counting " + i);
+}
